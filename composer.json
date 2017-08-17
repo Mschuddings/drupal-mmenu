@@ -1,4 +1,7 @@
 {
     "name": "mschuddings/drupal-responsive-menu-mmenu-library",
-    "description": "Library for Drupal responsive_menu && mmenu integration"
+    "description": "Library for Drupal responsive_menu && mmenu integration",
+    "minimum-stability": "stable",
+    "type": "package",
+    "license": "GPL-2.0"
 }
